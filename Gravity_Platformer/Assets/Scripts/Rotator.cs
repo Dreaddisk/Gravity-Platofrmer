@@ -7,8 +7,5 @@ public class Rotator : MonoBehaviour
     #region Variables
 
     #endregion
-
-
-
-
+    
 } // main class
